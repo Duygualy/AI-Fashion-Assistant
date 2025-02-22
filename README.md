@@ -1,3 +1,3 @@
 # AI-Fashion-Assistant
 
-Hello, unfortunately i couldn't load my codes because as long as i didn't take aliexpress api my code won't work.
+Hello, unfortunately i couldn't load my codes because as long as i didn't take aliexpress api my code won't work. But i hope you read my report everything about this project is writed there and hopefully with your help i can make my graduation project and convert it into a business application. Thank you for looking ...
